@@ -1,0 +1,28 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Backup Files
+*.backup
+*.bak
+*.tmp
+*_backup.json
+
+# Don't commit actual user vaults (if anyone saves them as files)
+*vault*.json
+*password*.json
+my_passwords*.json
